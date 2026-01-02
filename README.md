@@ -30,4 +30,4 @@ Remove the DLL from `<GameFolder>\Mods\`.
 
 ## Donations
 If you like the mod and want to support future updates:
-- Ko-fi: <YOUR LINK>
+- Ko-fi: [https://ko-fi.com/axiolus]
